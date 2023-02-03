@@ -32,6 +32,8 @@
 
 <br/>
 
+<img align="right" alt="Coding" width="200" src="dog.gif">
+
 ### 📊 GitHub Stats:
 
 ![a](https://github-readme-stats.vercel.app/api?username=kavindur98&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)&nbsp;
