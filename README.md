@@ -34,12 +34,9 @@
 
 ### 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindur98&show_icons=true&locale=en&layout=compact" alt="kavindur98" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavindur98&show_icons=true&locale=en" alt="kavindur98" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindur98&" alt="kavindur98" /></p>
-
+![a](https://github-readme-stats.vercel.app/api?username=kavindur98&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)&nbsp;&nbsp;
+![a](https://github-readme-streak-stats.herokuapp.com/?user=kavindur98&theme=midnight-purple&hide_border=false)<br/>
+![a](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindur98&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
 
