@@ -39,3 +39,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavindur98&show_icons=true&locale=en" alt="kavindur98" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindur98&" alt="kavindur98" /></p>
+
+
+<br/>
+
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=KavinduR98&row=2&column=3&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
