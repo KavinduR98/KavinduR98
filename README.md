@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kavindu Ushan</h1>
 <h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
 &nbsp;
-<img align="right" alt="Coding" width="375" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif">
+<img align="right" alt="Coding" width="375" src="programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindur98&label=Profile%20views&color=0e75b6&style=flat" alt="kavindur98" /> </p>
 
