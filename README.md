@@ -32,7 +32,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="250" src="dog.gif">
+<img align="right" alt="Coding" width="220" src="dog.gif">
 
 ### 📊 GitHub Stats:
 
