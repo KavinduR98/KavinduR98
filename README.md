@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Customer-Management-System](https://github.com/KavinduR98/Customer-Management-System)
 
-- 🌱 I’m currently learning **Laravel, React JS, Machine learning 🤖, Deep Learning**
+- 🌱 I’m currently learning **Laravel, React JS, Flutter, Machine learning 🤖, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KavinduR98/KavinduR98](https://github.com/KavinduR98/KavinduR98)
 
