@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindur98&label=Profile%20views&color=0e75b6&style=flat" alt="kavindur98" /> </p>
 
-- 🔭 I’m currently working on [Customer-Management-System](https://github.com/KavinduR98/Customer-Management-System)
+- 🔭 I’m currently working on [FlexiCart-Ecommerce-Website](https://github.com/KavinduR98/FlexiCart-Ecommerce-Website.git)
 
 - 🌱 I’m currently learning **Laravel, React JS, Flutter, Machine learning 🤖, Deep Learning**
 
