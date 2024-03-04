@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindur98&label=Profile%20views&color=0e75b6&style=flat" alt="kavindur98" /> </p>
 
-- 🔭 I’m currently working on [Real-Estate-Marketplace](https://github.com/KavinduR98/Real-Estate-Marketplace)
+- 🔭 I’m currently working on [Real-Estate-Marketplace](https://github.com/KavinduR98/Real-Estate-Marketplace), [NextDoc](https://github.com/KavinduR98/NextDoc), [car-land](https://github.com/KavinduR98/car-land)
 
 - 🌱 I’m currently learning **Laravel, React JS, Next JS, Machine learning 🤖, Deep Learning**
 
