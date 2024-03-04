@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindur98&label=Profile%20views&color=0e75b6&style=flat" alt="kavindur98" /> </p>
 
-- 🔭 I’m currently working on [FlexiCart-Ecommerce-Website](https://github.com/KavinduR98/FlexiCart-Ecommerce-Website.git)
+- 🔭 I’m currently working on [Real-Estate-Marketplace](https://github.com/KavinduR98/Real-Estate-Marketplace)
 
-- 🌱 I’m currently learning **Laravel, React JS, Flutter, Machine learning 🤖, Deep Learning**
+- 🌱 I’m currently learning **Laravel, React JS, Next JS, Machine learning 🤖, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KavinduR98/KavinduR98](https://github.com/KavinduR98/KavinduR98)
 
