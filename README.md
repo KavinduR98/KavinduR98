@@ -32,13 +32,11 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="220" src="dog.gif">
-
 ### 📊 GitHub Stats:
 
-![a](https://github-readme-stats.vercel.app/api?username=kavindur98&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)&nbsp;
+![a](https://github-readme-stats.vercel.app/api?username=kavindur98&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)&nbsp;&nbsp;&nbsp;  ![a](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindur98&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![a](https://github-readme-streak-stats.herokuapp.com/?user=kavindur98&theme=midnight-purple&hide_border=false)<br/>
-![a](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindur98&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <br/>
 
