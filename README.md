@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Real-Estate-Marketplace](https://github.com/KavinduR98/Real-Estate-Marketplace), [NextDoc](https://github.com/KavinduR98/NextDoc), [car-land](https://github.com/KavinduR98/car-land)
 
-- 🌱 I’m currently learning **Laravel, React JS, Next JS, Machine learning 🤖, Deep Learning**
+- 🌱 I’m currently learning **Java, Spring, Spring boot, Laravel, React JS, Next JS, Machine learning 🤖, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KavinduR98/KavinduR98](https://github.com/KavinduR98/KavinduR98)
 
