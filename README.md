@@ -1,12 +1,10 @@
 ![w8ZJLtJbmuph](https://user-images.githubusercontent.com/91416868/214014650-59643c75-471e-4637-affe-dfb985200c92.gif)
-<h1 align="center">Hi 👋, I'm Kavindu Ushan</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h1 align="center">Hey 👋, I'm Kavindu Ushan</h1>
+<h3 align="center">A passionate full-stack developer</h3>
 &nbsp;
 <img align="right" alt="Coding" width="350" src="programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindur98&label=Profile%20views&color=0e75b6&style=flat" alt="kavindur98" /> </p>
-
-- 🔭 I’m currently working on [Real-Estate-Marketplace](https://github.com/KavinduR98/Real-Estate-Marketplace), [NextDoc](https://github.com/KavinduR98/NextDoc), [car-land](https://github.com/KavinduR98/car-land)
 
 - 🌱 I’m currently learning **Java, Spring, Spring boot, Laravel, React JS, Next JS, Machine learning 🤖, Deep Learning**
 
@@ -14,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@kavinduushan07](https://medium.com/@kavinduushan07)
 
-- 💬 Ask me about **Laravel, MERN Stack**
+- 💬 Ask me about **Java, SpringBoot, JavaScript, Laravel, MERN Stack**
 
 - 📫 How to reach me **kavinduushan07@gmail.com**
 
@@ -34,7 +32,8 @@
 
 ### 📊 GitHub Stats:
 
-![a](https://github-readme-stats.vercel.app/api?username=kavindur98&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)&nbsp;&nbsp;&nbsp;  ![a](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindur98&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![a](https://github-readme-stats.vercel.app/api?username=kavindur98&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)&nbsp;&nbsp;&nbsp; 
+![a](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindur98&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![a](https://github-readme-streak-stats.herokuapp.com/?user=kavindur98&theme=midnight-purple&hide_border=false)<br/>
 
 
